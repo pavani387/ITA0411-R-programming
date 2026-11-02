@@ -1,0 +1,68 @@
+---
+title: "ITA0411OUTPUT.Rmd"
+output: html_document
+date: "2026-11-02"
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Question 1: Vectors
+
+```{r}
+source("Q1_vectors.R")
+```
+
+# Question 2: Matrices
+
+```{r}
+source("Q2_matrices.R")
+```
+
+# Question 3: 3D Array
+
+```{r}
+source("Q3_array3d.R")
+```
+
+# Question 4: Dimension Names
+
+```{r}
+source("Q4_dimension_names.R")
+```
+
+# Question 5: Factors
+
+```{r}
+source("Q5_factors.R")
+```
+
+# Question 6: Lists
+
+```{r}
+source("Q6_lists.R")
+```
+
+# Question 7: Basic Programs
+
+```{r}
+source("Q7_basic_programs.R")
+```
+
+# Question 8: Normal Distribution
+
+```{r}
+source("Q8_normal_distribution.R")
+```
+
+# Question 9: Empty Plots
+
+```{r}
+source("Q9_empty_plots.R")
+```
+
+# Question 10: Data Frame
+
+```{r}
+source("Q10_dataframe.R")
+```

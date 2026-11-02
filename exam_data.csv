@@ -1,0 +1,7 @@
+"name","score","attempts","qualify","grade"
+"Priya",90,1,TRUE,"A"
+"Anu",85,1,TRUE,"A"
+"Arun",80,1,TRUE,"A"
+"John",75,2,TRUE,"B"
+"Ravi",65,2,TRUE,"B"
+"Kiran",45,3,FALSE,"C"
