@@ -1,4 +1,3 @@
-# 1. Find factors of a number
 
 n <- 24
 
@@ -11,14 +10,12 @@ for(i in 1:n) {
 }
 
 
-# 2. Generate 10 random integers between -50 and 50
 
 random_numbers <- sample(-50:50, 10)
 
 print(random_numbers)
 
 
-# 3. FizzBuzz from 1 to 100
 
 for(i in 1:100) {
 
