@@ -1,0 +1,27 @@
+# Create vector
+v <- c(10, 20, 30, 40)
+
+# Create matrix
+m <- matrix(1:9, nrow=3, ncol=3)
+
+# Create function
+add <- function(a, b) {
+  return(a + b)
+}
+
+# Create list
+mylist <- list(
+  Vector = v,
+  Matrix = m,
+  Function = add
+)
+
+# Display list
+print(mylist)
+
+# Access individual elements
+print(mylist$Vector)
+print(mylist$Matrix)
+
+# Call function from list
+print(mylist$Function(10, 20))
