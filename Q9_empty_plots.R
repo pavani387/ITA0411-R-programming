@@ -1,4 +1,3 @@
-# Empty plot 1
 plot(
   0,
   0,
@@ -10,7 +9,6 @@ plot(
   main="Empty Plot 1"
 )
 
-# Empty plot 2
 plot(
   0,
   0,
@@ -22,7 +20,6 @@ plot(
   main="Empty Plot 2"
 )
 
-# Empty plot 3
 plot(
   0,
   0,
